@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1629Ab73A3A5485853D9BDf8ab34eAA2d198521D",
+  "SCAN_LINK": "https://etherscan.io/address/0x1629Ab73A3A5485853D9BDf8ab34eAA2d198521D",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Sigma Labs by Bani",
+  "SYMBOL": "SIGMA",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sigma-labs-by-bani",
+  "SHOW_BACKGROUND": true
+}
